@@ -4,4 +4,4 @@ maximum = max(list)
 print("maximum:",maximum)
 
 minimum = min(list)
-print("minimum:",minimum
+print("minimum:",minimum)
